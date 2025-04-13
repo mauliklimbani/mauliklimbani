@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maulik Limbani</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🌱 I have an good expertise in **Angular, Vue.js, React.Js, Nuxt.Js and Node.Js.**
+- 🌱 I have an good expertise in **Angular, Vue.js, Next.Js, React.Js, Nuxt.Js and Node.Js.**
 
 - 👨‍💻 My Portfolio available at [https://portfolio-mauliklimbani.web.app/](https://portfolio-mauliklimbani.web.app/)
 
-- 💬 Ask me about **Node.Js, Vue.js, Angular,Next.Js React.Js and Nuxt.Js.**
+- 💬 Ask me about **Node.Js, Vue.js, Angular, Next.Js, React.Js and Nuxt.Js.**
 
 - 📫 How to reach me **mauliklimbani.work@gmail.com**
 
