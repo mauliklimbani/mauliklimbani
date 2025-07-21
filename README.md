@@ -3,8 +3,6 @@
 
 - 🌱 I have an good expertise in **Angular, Vue.js, Next.Js, React.Js, Nuxt.Js and Node.Js.**
 
-- 👨‍💻 My Portfolio available at [https://portfolio-mauliklimbani.web.app/](https://portfolio-mauliklimbani.web.app/)
-
 - 💬 Ask me about **Node.Js, Vue.js, Angular, Next.Js, React.Js and Nuxt.Js.**
 
 - 📫 How to reach me **mauliklimbani.work@gmail.com**
